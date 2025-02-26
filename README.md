@@ -11,7 +11,7 @@ A DIY continuity tester (based on reverse-engineered SF10 Short Finder).
 ## Construction
 
 To obtain the printed circuit board, upload the Gerber files (export-continuity-tester-gerbers-rev1.zip) to any PCB manufacturer.
-All passives are 0805-sized (0603-sized will fit too), and all ICs are SOIC sized. The trimmer resistor is Bourns 3314G-1-202E and the enclosure is Hammond 1591XXMGY.
+All passives are 0805-sized (0603-sized will fit too), and all ICs are SOIC sized. The trimmer resistor is Bourns 3314G-1-202E and the enclosure is Hammond 1591XXMGY. The switch is AliExpress T8019L and the little speaker is part code 41.T70P015H-LF.
 
 Here's the finished board:
 <img width="100%" align="left" src="cont-component-view.jpg">
