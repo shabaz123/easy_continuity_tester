@@ -1,4 +1,4 @@
-Easy Continuity Tester
+# Easy Continuity Tester
 
 A DIY continuity tester (based on reverse-engineered SF10 Short Finder).
 
