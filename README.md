@@ -4,6 +4,10 @@ A DIY continuity tester (based on reverse-engineered SF10 Short Finder).
 
 <img width="100%" align="left" src="cont-finished.jpg">
 
+## Warning
+
+The project described here is not intended to replace a multimeter. It does not offer the same level of protection. Do NOT use on a powered circuit, or on any circuit with stored energy (for instance charged capacitors). 
+
 ## Circuit
 
 <img width="100%" align="left" src="cont-tester-schematic-rev1.jpg">
